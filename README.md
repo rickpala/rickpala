@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Ricky Palaguachi! I'm a software developer that loves working with Data in all shapes and sizes!
-- 🎓 B.S. in Computer Science and Applied Mathematics (dual) from NJIT
-- 👀 I’m interested in Python for Data Science and Machine Learning
-- 🌱 I’m currently learning TensorFlow at DeepLearning.ai
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rickypalaguachi/)
-- ⏰ Read about what I'm doing now at [rickypalaguachi.com](https://rickypalaguachi.com)
+# 👋 I’m Ricky Palaguachi.
+I write about software development and self development.
+
+[twitter.com/rickypalaguachi](https://www.twitter.com/rickypalaguachi)
+[youtube.com/@rickypalaguachi](https://www.youtube.com/@rickypalaguachi)
+[rickypalaguachi.com](https://www.rickypalaguachi.com)
+
 
 <!---
 rpalaguachi/rpalaguachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
