@@ -2,7 +2,9 @@
 I write about software development and self development.
 
 [twitter.com/rickypalaguachi](https://www.twitter.com/rickypalaguachi)
+
 [youtube.com/@rickypalaguachi](https://www.youtube.com/@rickypalaguachi)
+
 [rickypalaguachi.com](https://www.rickypalaguachi.com)
 
 
