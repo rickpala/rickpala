@@ -1,5 +1,5 @@
 # 👋 I’m Ricky Palaguachi.
-Currently a Software Engineer at Google. Working on [Google Lens for iOS](lens.google).
+Currently a Software Engineer at Google. Working on [Google Lens for iOS](https://lens.google).
 
 <p>
   <a href="https://www.rickpala.co">
