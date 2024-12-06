@@ -1,6 +1,10 @@
 # 👋 I’m Ricky Palaguachi.
 Currently a Software Engineer at Google. Working on [Google Lens for iOS](https://lens.google).
-
+<p>
+  <a href="https://www.instagram.com/rickpala_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <p>
   <a href="https://www.rickpala.co">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -27,6 +31,7 @@ Currently a Software Engineer at Google. Working on [Google Lens for iOS](https:
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 <!--
 ## My Experience
 **Software Engineering Intern** at Google
